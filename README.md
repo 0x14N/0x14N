@@ -1,7 +1,7 @@
 #### Hello 👋, my name is Ian.
-###### Just another IT guy.
+###### Just another 🖥️ IT guy.
 
-- 📚 Currently learning Devops
+- 📚 Currently learning about DevSecOps, Pentesting
 - ☕ Coffee lover
 - 🏃 Newbie Runner
 
