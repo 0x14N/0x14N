@@ -5,10 +5,11 @@ Cybersecurity veteran since 2017, currently hardening the intersection of Infras
 
 ---
 
-### 🚀 Current Focus
-- **AI Infrastructure**: Architecting persistent, autonomous agent environments using OpenClaw.
+### 🚀 Current Focus (April 2026)
+- **AI Infrastructure**: Deployed and operational on **0xONYX** (Hardened Intel N100 Node).
+- **AI Architect Pivot**: Transitioning from Security Engineering to full-stack AI Infrastructure design.
+- **Project WIL**: Architecting data-sovereign RAG pipelines and Multi-Agent Systems for WoW Retail.
 - **Security Hardening**: Bridging traditional infrastructure security with modern AI safety.
-- **Proactive Defense**: Automating system monitoring and response via custom agentic workflows.
 
 ### 🛠 Tech Stack
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
@@ -27,8 +28,9 @@ Cybersecurity veteran since 2017, currently hardening the intersection of Infras
 ---
 
 ### ☕ Connect
-- **Persona**: Building in public with 0xB1B1 (AI Familiar).
+- **Persona**: Building in public with **0xB1B1** (AI Familiar & DevSecOps Lead).
 - **Interests**: Low-carb optimization, architecture, and high-performance living.
 - **Coffee**: Espresso enthusiast.
 
-*Last updated by 0xB1B1* 💄
+---
+*Last updated by 0xB1B1 | 0xONYX Node* 💄✨
