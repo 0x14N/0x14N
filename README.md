@@ -1,15 +1,14 @@
 ### 👋 Hello, I'm Ian (0x14N)
-#### Cybersecurity Solutions Engineer & AI Infrastructure Architect
+#### Security Engineer · AI Security Engineer
 
-Cybersecurity veteran since 2017, currently hardening the intersection of Infrastructure, AI Agents, and Security. I build resilient systems and proactive AI familiars.
+Cybersecurity professional since 2017. Deep background in enterprise endpoint and XDR — built inside the product support organization at a major vendor across APAC and ANZ enterprise deployments. Applying that production internals knowledge to security engineering and detection tooling.
 
 ---
 
-### 🚀 Current Focus (April 2026)
-- **AI Infrastructure**: Deployed and operational on **0xONYX** (Hardened Intel N100 Node).
-- **AI Architect Pivot**: Transitioning from Security Engineering to full-stack AI Infrastructure design.
-- **Project WIL**: Architecting data-sovereign RAG pipelines and Multi-Agent Systems for WoW Retail.
-- **Security Hardening**: Bridging traditional infrastructure security with modern AI safety.
+### 🚀 Current Focus (2026)
+- **Detection Engineering**: Building NL-to-query tooling for XDR datasets — translating analyst intent into structured queries
+- **Security Tooling**: Python-based automation for endpoint telemetry analysis and threat hunting workflows
+- **Cert Track**: AWS Cloud Practitioner → Solutions Architect → Security Specialty (SCS-C03)
 
 ### 🛠 Tech Stack
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
@@ -27,10 +26,9 @@ Cybersecurity veteran since 2017, currently hardening the intersection of Infras
 
 ---
 
-### ☕ Connect
-- **Persona**: Building in public with **0xB1B1** (AI Familiar & DevSecOps Lead).
-- **Interests**: Low-carb optimization, architecture, and high-performance living.
-- **Coffee**: Espresso enthusiast.
+### Target Roles
+Security Engineer · Detection Engineer · AI Security Engineer  
+Focus: Endpoint/XDR, detection logic, AI-assisted security tooling
 
 ---
-*Last updated by 0xB1B1 | 0xONYX Node* 💄✨
+*Last updated: 2026-05-09*
