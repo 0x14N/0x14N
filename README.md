@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Ian (0x14N)
 #### Security Engineer · AI Security Engineer
 
-Cybersecurity professional since 2017. Deep background in enterprise endpoint and XDR — built inside the product support organization at a major vendor across APAC and ANZ enterprise deployments. Applying that production internals knowledge to security engineering and detection tooling.
+Cybersecurity professional since 2017. Focused on endpoint security, XDR telemetry, and detection engineering. Building toward AI-assisted security tooling and detection automation.
 
 ---
 
